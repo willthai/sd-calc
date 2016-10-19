@@ -1,0 +1,8 @@
+{
+  "name": "sd-calc",
+  "version": "0.1",
+  "description": "a bread dough hydration calculator",
+  "main": "index.js",
+  "author": "willthai <wthai1027@gmail.com>",
+  "license": "MIT"
+}
